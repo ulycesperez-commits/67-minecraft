@@ -1,13 +1,20 @@
 {
   "id": "26.1.1",
+  "version": "26.1.1",
   "name": "Minecraft 26.1.1 (Eaglercraft 1.8.8 wrapper)",
   "releaseTarget": "1.8.8",
   "description": "Metadata manifest for version 26.1.1. This points to the Eaglercraft web client (https://eaglercraft.com/play?version=1.8.8). No Mojang or Eaglercraft binaries are stored in this repository.",
   "playUrl": "https://eaglercraft.com/play?version=1.8.8",
+  "homepage": "https://github.com/ulycesperez-commits/67-minecraft",
+  "authors": [
+    "ulycesperez-commits"
+  ],
+  "checksum": "",
   "notes": [
     "This manifest is only metadata and a pointer to the Eaglercraft web build.",
     "If you want local assets/jars committed, you must explicitly confirm you have redistribution rights."
   ],
   "createdBy": "ulycesperez-commits",
-  "createdAt": "2026-07-31T22:02:14Z"
+  "createdAt": "2026-07-31T22:02:14Z",
+  "license": "MIT"
 }

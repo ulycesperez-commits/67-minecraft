@@ -11,6 +11,9 @@
   },
   "author": "ulycesperez-commits",
   "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
   "dependencies": {
     "open": "^9.0.0"
   }
