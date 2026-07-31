@@ -1,0 +1,17 @@
+{
+  "name": "eaglercraft-launcher",
+  "version": "0.1.0",
+  "description": "Small launcher that opens the Eaglercraft web client for version 1.8.8",
+  "main": "launcher.js",
+  "bin": {
+    "eagler-launch": "launcher.js"
+  },
+  "scripts": {
+    "start": "node launcher.js"
+  },
+  "author": "ulycesperez-commits",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^9.0.0"
+  }
+}
